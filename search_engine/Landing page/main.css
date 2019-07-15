@@ -4,7 +4,7 @@
 
 }
 #search{
-    padding: 17% 0 0 7%;
+    padding: 14% 0 0 7%;
     position: absolute;
     font-size: 1.5em;
     height:5vh;
@@ -42,4 +42,12 @@ button:hover{
 input:hover{
     background-color: #ccc;
     color:#fff;
+}
+#bot{
+    margin-left:13vw;
+
+}
+#bot img{
+    height:50px;
+    cursor: pointer;
 }
